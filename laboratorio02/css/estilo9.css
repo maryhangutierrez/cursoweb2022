@@ -1,0 +1,46 @@
+.contenedor{
+    width:1280px;
+    height:800px;
+    background-color:#1eaaf1;
+}
+header{
+    width:1280px;
+    height:210px;
+    background-color:#e2202c;
+}
+nav{
+    width:250px;
+    height:540px;
+    background-color:#35b736;
+}
+main{
+    width:750px;
+    height:540px;
+    background-color:#fd9727;
+    margin-left:250px;
+    margin-top:-540px;
+}
+.anucio1{
+    width:280px;
+    height:180px;
+    background-color:#673fb4;
+    margin-left:1000px;
+    margin-top:-540px;
+}
+.anucio2{
+    width:280px;
+    height:180px;
+    background-color:#999999;
+    margin-left:1000px;
+}
+.anucio3{
+    width:280px;
+    height:180px;
+    background-color:#9a2fae;
+    margin-left:1000px;
+}
+footer{
+    width:1280px;
+    height:50px;
+    background-color:#fee94e;
+}

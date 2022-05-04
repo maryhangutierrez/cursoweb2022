@@ -1,0 +1,23 @@
+.contenerdor{
+    width:1280px;
+    height:800px;
+    background: color #1eaaf1;
+    margin:auto
+}
+header{
+    width:1280px;
+    height:200px;
+    background:color #E2202C;
+}
+nav{
+    width:1280px;
+    height:200px;
+    background-color:#E2202C;
+}
+main{
+    width:1030px;
+    height:600px;
+    background: color #fee94e;
+    margin-left:250px;
+    margin-top:-600px;
+}
